@@ -1,0 +1,33 @@
+body{
+  background:black;
+}
+.calculator{
+  margin-top:2rem;
+}
+fieldset{
+  text-align:center;
+  margin:0 auto;
+  width:17%;
+  background:url("http://img.wallpaperfolder.com/f/50E0840228D3/light-wood-grain-texture.jpg");
+}
+.value{
+  font-family: 'Fredericka the Great', cursive;
+  font-size:1.5rem;
+  background:url("https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnlVBQ7kupUWFyTCGv8w5ot7Mp4S-AQMiRt56WEUhUj3rAqX-oQA");
+  color:#fff;
+display:block;
+padding:1rem;
+margin:1rem;
+}
+.button{
+  background:url("http://wallpapercave.com/wp/SuKN3nb.jpg");
+  color:#fff;
+  font-family: 'Fredericka the Great', cursive;
+}
+legend{
+  padding-top:2rem;
+  color:#000;
+  font-size:1.3rem;
+  font-family: 'Fredericka the Great', cursive;
+
+}
